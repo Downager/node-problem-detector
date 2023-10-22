@@ -31,7 +31,7 @@ require (
 	golang.org/x/sys v0.0.0-20210112080510-489259a85091
 	google.golang.org/api v0.10.0
 	k8s.io/api v0.0.0-20190816222004-e3a6b8045b0b
-	k8s.io/apimachinery v0.0.0-20190816221834-a9f1d8a9c101
+	k8s.io/apimachinery v0.15.7
 	k8s.io/client-go v11.0.1-0.20190805182717-6502b5e7b1b5+incompatible
 	k8s.io/heapster v0.0.0-20180704153620-b25f8a16208f
 	k8s.io/kubernetes v1.14.6
